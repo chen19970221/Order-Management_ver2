@@ -15,8 +15,16 @@
 ## Screenshots
 
 ![page](https://imgur.com/7KTSYlv.jpeg)
+
+> 概覽
+
 ![edit order](https://imgur.com/fANtsBR.jpeg)
+
+> 修改訂單
+
 ![delete order](https://imgur.com/JA8YctU.jpeg)
+
+> 刪除訂單
 
 ## Recommended IDE Setup
 
