@@ -1,7 +1,3 @@
-<script setup>
-
-</script>
-
 <template>
   <div class="row">
     <!-- order list group -->
@@ -176,8 +172,9 @@
         </div>
       </div>
     </div>
+    </div>
   </div>
-</div></template>
+</template>
 
 
 
