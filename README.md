@@ -2,6 +2,10 @@
 
 ![Order Management system](https://i.imgur.com/u8Ikm3O.jpeg)
 
+## Description
+
+此專案為 [Order-Management](https://github.com/chen19970221/Order-Management) 的 vue 版本
+
 ## Features
 
 - 側邊欄開合
