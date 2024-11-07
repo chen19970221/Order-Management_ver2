@@ -1,7 +1,22 @@
 # OrderManagement
+
 ![Order Management system](https://i.imgur.com/u8Ikm3O.jpeg)
 
-This template should help get you started developing with Vue 3 in Vite.
+## Features
+
+- 側邊欄開合
+- 串接資料庫
+- 依照訂單付款狀態分類查看
+- 搜尋訂單編號
+- 編輯訂單資料
+- 刪除訂單
+- 限制訂單顯示數量及換頁
+
+## Screenshots
+
+![page](https://imgur.com/7KTSYlv)
+![edit order](https://imgur.com/fANtsBR)
+![delete order](https://imgur.com/JA8YctU)
 
 ## Recommended IDE Setup
 
