@@ -14,9 +14,9 @@
 
 ## Screenshots
 
-![page](https://imgur.com/7KTSYlv)
-![edit order](https://imgur.com/fANtsBR)
-![delete order](https://imgur.com/JA8YctU)
+![page](https://imgur.com/7KTSYlv.jpeg)
+![edit order](https://imgur.com/fANtsBR.jpeg)
+![delete order](https://imgur.com/JA8YctU.jpeg)
 
 ## Recommended IDE Setup
 
