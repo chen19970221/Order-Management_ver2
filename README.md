@@ -51,3 +51,12 @@ npm run dev
 ```sh
 npm run build
 ```
+
+## Folder Structure
+
+- public
+  - icons
+- assets
+  - 靜態資源放置處
+- components
+  - 元件放置處
