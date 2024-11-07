@@ -60,3 +60,10 @@ npm run build
   - 靜態資源放置處
 - components
   - 元件放置處
+
+## Project Technologies
+
+- Node.js v22.6.0
+- Vue.js v3.5.12
+- Vite v5.4.10
+- BootStrap v5.3.3
