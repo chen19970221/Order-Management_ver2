@@ -1,4 +1,5 @@
 # OrderManagement
+![Order Management system](https://i.imgur.com/u8Ikm3O.jpeg)
 
 This template should help get you started developing with Vue 3 in Vite.
 
