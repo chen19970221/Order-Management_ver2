@@ -47,24 +47,6 @@ function changeSidebarToggleStatus() {
           </div>
         </div>
     
-        <!-- chart -->
-        <div class="row g-4 mb-4">
-          <div class="col-md-6 col-lg-4">
-            <div class="card shadow-sm h-100">
-              <div class="card-body">
-                <canvas id="myChart" class="img-fluid"></canvas>
-              </div>
-            </div>
-          </div>
-          <div class="col">
-            <div class="card shadow-sm h-100">
-              <div class="card-body">
-                <canvas id="bar-chart" class="img-fluid img-position object-position-center"></canvas>
-              </div>
-            </div>
-          </div>
-        </div>
-    
         <!-- one of order -->
         <OrderList :data="data"/>
 
