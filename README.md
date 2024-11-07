@@ -1,4 +1,4 @@
-# OrderManagement
+# Order Management
 
 ![Order Management system](https://i.imgur.com/u8Ikm3O.jpeg)
 
