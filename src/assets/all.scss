@@ -1,0 +1,90 @@
+$sidebar-width: 280px;
+
+// mobile devices (預設)
+.sidebar {
+  width: $sidebar-width;
+  margin-left: -$sidebar-width;
+  transition: margin-left .25s;
+  position: fixed;
+  top: 0;
+}
+
+.main {
+  width: 100%;
+}
+
+// 展開 sidebar
+.sidebar-toggle {
+  .sidebar {
+    margin-left: 0;
+    width: $sidebar-width;
+  }
+
+  .main {
+    width: calc(100vw - #{$sidebar-width});
+    margin-left: $sidebar-width;
+    transition: margin-left .25s;
+  }
+
+}
+
+// notebook devices
+@media (min-width: 992px) {
+
+  // 展開 sidebar (預設)
+  .sidebar {
+    width: $sidebar-width;
+    margin-left: 0;
+  }
+
+  .main {
+    width: calc(100vw - #{$sidebar-width});
+    margin-left: $sidebar-width;
+    transition: margin-left .25s;
+
+  }
+
+  // 關閉 sidebar
+  .sidebar-toggle {
+    .sidebar {
+      margin-left: -$sidebar-width;
+      transition: margin-left .25s;
+    }
+
+    .main {
+      width: 100%;
+      margin-left: 0;
+    }
+  }
+}
+
+
+.sidebar {
+  .sidebar-link {
+    color: #000;
+    display: block;
+    text-decoration: none;
+    padding-top: 0.875rem;
+    padding-bottom: 0.875rem;
+
+    &:hover {
+      background-color: rgba(var(--primary), 0.16);
+    }
+  }
+
+  .sidebar-link.active {
+    position: relative;
+    color: var(--primary)  !important;
+    background-color: rgba(var(--primary), 0.16);
+
+    &::after {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 2px;
+      height: 100%;
+      width: 3px;
+      background: var(--primary);
+    }
+  }
+}

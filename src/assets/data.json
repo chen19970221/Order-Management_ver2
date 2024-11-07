@@ -1,0 +1,230 @@
+{
+  "projects":[
+    {"title":"在線人數", "description":"53"},
+    {"title":"訂單數", "description":"15"},
+    {"title":"銷售金額", "description":"$34,314"}
+  ],
+  "revenue": {
+    "title":"營業額",
+    "total":"$193,456"
+  },
+  "orders": [
+  {
+    "order_id": "TX123456789",
+    "email": "ab1234@email.com",
+    "customer_name": "皮卡丘",
+    "order_item": "大麥克全家餐",
+    "payment_status": "已付款",
+    "amount": "900"
+  },
+  {
+    "order_id": "TX123456790",
+    "email": "xy5678@email.com",
+    "customer_name": "傑尼龜",
+    "order_item": "招牌牛排",
+    "payment_status": "已付款",
+    "amount": "1,200"
+  },
+  {
+    "order_id": "TX123456791",
+    "email": "pq9012@email.com",
+    "customer_name": "小火龍",
+    "order_item": "雙人餐",
+    "payment_status": "已付款",
+    "amount": "1,600"
+  },
+  {
+    "order_id": "TX123456792",
+    "email": "rs3456@email.com",
+    "customer_name": "妙蛙種子",
+    "order_item": "商務套餐",
+    "payment_status": "尚未付款",
+    "amount": 1500
+  },
+  {
+    "order_id": "TX123456793",
+    "email": "mn7890@email.com",
+    "customer_name": "伊布",
+    "order_item": "家庭組合餐",
+    "payment_status": "尚未付款",
+    "amount": "1,800"
+  },
+  {
+    "order_id": "TX123456794",
+    "email": "ab1235@email.com",
+    "customer_name": "風速狗",
+    "order_item": "單人午餐",
+    "payment_status": "尚未付款",
+    "amount": "750"
+  },
+  {
+    "order_id": "TX123456795",
+    "email": "xy5679@email.com",
+    "customer_name": "超夢",
+    "order_item": "大麥克單點",
+    "payment_status": "尚未付款",
+    "amount": "600"
+  },
+  {
+    "order_id": "TX123456796",
+    "email": "pq9013@email.com",
+    "customer_name": "龍龍",
+    "order_item": "雙拼套餐",
+    "payment_status": "已付款",
+    "amount": "1,300"
+  },
+  {
+    "order_id": "TX123456797",
+    "email": "rs3457@email.com",
+    "customer_name": "小拳石",
+    "order_item": "午餐特價組合",
+    "payment_status": "尚未付款",
+    "amount": "800"
+  },
+  {
+    "order_id": "TX123456798",
+    "email": "mn7891@email.com",
+    "customer_name": "夢幻",
+    "order_item": "雙人套餐",
+    "payment_status": "已付款",
+    "amount": "1,400"
+  },
+  {
+    "order_id": "TX123456799",
+    "email": "ab1236@email.com",
+    "customer_name": "火球鼠",
+    "order_item": "三人套餐",
+    "payment_status": "尚未付款",
+    "amount": "2,100"
+  },
+  {
+    "order_id": "TX123456800",
+    "email": "xy5680@email.com",
+    "customer_name": "胖丁",
+    "order_item": "兒童餐",
+    "payment_status": "已付款",
+    "amount": "500"
+  },
+  {
+    "order_id": "TX123456801",
+    "email": "pq9014@email.com",
+    "customer_name": "奇異種子",
+    "order_item": "商務午餐",
+    "payment_status": "尚未付款",
+    "amount": "950"
+  },
+  {
+    "order_id": "TX123456802",
+    "email": "rs3458@email.com",
+    "customer_name": "鴨嘴寶寶",
+    "order_item": "經典組合餐",
+    "payment_status": "已付款",
+    "amount": "1,250"
+  },
+  {
+    "order_id": "TX123456803",
+    "email": "mn7892@email.com",
+    "customer_name": "冰雪巨龍",
+    "order_item": "全家大餐",
+    "payment_status": "尚未付款",
+    "amount": "2,000"
+  },
+  {
+    "order_id": "TX123456804",
+    "email": "example1@email.com",
+    "customer_name": "小王",
+    "order_item": "漢堡套餐",
+    "payment_status": "已付款",
+    "amount": "750"
+  },
+  {
+    "order_id": "TX123456805",
+    "email": "example2@email.com",
+    "customer_name": "小李",
+    "order_item": "炸雞全餐",
+    "payment_status": "尚未付款",
+    "amount": "1,200"
+  },
+  {
+    "order_id": "TX123456806",
+    "email": "example3@email.com",
+    "customer_name": "小張",
+    "order_item": "義大利麵",
+    "payment_status": "已付款",
+    "amount": "900"
+  },
+  {
+    "order_id": "TX123456807",
+    "email": "example4@email.com",
+    "customer_name": "小陳",
+    "order_item": "沙拉套餐",
+    "payment_status": "尚未付款",
+    "amount": "600"
+  },
+  {
+    "order_id": "TX123456808",
+    "email": "example5@email.com",
+    "customer_name": "小趙",
+    "order_item": "牛排套餐",
+    "payment_status": "已付款",
+    "amount": "2,500"
+  },
+  {
+    "order_id": "TX123456809",
+    "email": "example6@email.com",
+    "customer_name": "小吳",
+    "order_item": "壽司拼盤",
+    "payment_status": "尚未付款",
+    "amount": "1,500"
+  },
+  {
+    "order_id": "TX123456810",
+    "email": "example7@email.com",
+    "customer_name": "小林",
+    "order_item": "炸蝦堡",
+    "payment_status": "已付款",
+    "amount": "800"
+  },
+  {
+    "order_id": "TX123456811",
+    "email": "example8@email.com",
+    "customer_name": "小劉",
+    "order_item": "海鮮鍋",
+    "payment_status": "已付款",
+    "amount": "3,000"
+  },
+  {
+    "order_id": "TX123456812",
+    "email": "example9@email.com",
+    "customer_name": "小許",
+    "order_item": "火鍋套餐",
+    "payment_status": "已付款",
+    "amount": "1,800"
+  },
+  {
+    "order_id": "TX123456813",
+    "email": "example10@email.com",
+    "customer_name": "小鄭",
+    "order_item": "豆腐鍋",
+    "payment_status": "已付款",
+    "amount": "700"
+  },
+  {
+    "order_id": "TX123456814",
+    "email": "example11@email.com",
+    "customer_name": "小周",
+    "order_item": "水果沙拉",
+    "payment_status": "已付款",
+    "amount": "400"
+  },
+  {
+    "order_id": "TX123456815",
+    "email": "example12@email.com",
+    "customer_name": "小趙",
+    "order_item": "奶茶套餐",
+    "payment_status": "已付款",
+    "amount": "300"
+  }
+  ],
+  "order":[]
+}
