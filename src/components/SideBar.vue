@@ -120,7 +120,7 @@ $sidebar-width: 280px;
       background-color: rgba(0,0,0, 0.16);    }
     &.active {
       position: relative;
-      color: #fff;
+      color: var(--bs-primary);
       background-color: rgba(0,0,0, 0.16);
       &::after {
         content: "";
