@@ -1,7 +1,6 @@
 # Order Management
 
-![Order Management system](https://i.imgur.com/u8Ikm3O.jpeg](https://i.imgur.com/eABxcZe.jpeg)
-
+![Order Management system](https://i.imgur.com/eABxcZe.jpeg)
 
 ## Description
 
