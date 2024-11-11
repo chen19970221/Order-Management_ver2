@@ -4,7 +4,7 @@
 
 ## Description
 
-此專案為 [Order-Management](https://chen19970221.github.io/Order-Management_ver2/) 的 vue 版本
+此專案為 [Order-Management](https://chen19970221.github.io/Order-Management/) 的 vue 版本
 
 ## Features
 
